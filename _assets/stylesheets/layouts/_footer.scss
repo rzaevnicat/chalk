@@ -5,11 +5,13 @@
 .footer {
   display: block;
   padding-top: 35px;
-  margin-bottom: 85px;
+  margin-bottom: 35px;
   border-top: 1px solid $base-border-color;
   p {
-    font-size: 15px;
+    font-size: 18px;
     color: $gray-light;
+    text-align: center;
+    font-weight: 300;
   }
   a {
     text-decoration: none;
